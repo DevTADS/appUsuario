@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">APP Usuario</string>
+
+
+    <string-array name="tipos_empresa">
+        <item>Hotel</item>
+        <item>Restaurante</item>
+        <item>Otros</item>
+    </string-array>
+
+    <string-array name="paises">
+        <item>Uruguay</item>
+        <item>Brasil</item>
+    </string-array>
+    <string name="block_icon_description">Descripción del icono de bloqueo</string>
+    <string name="delete_icon_description">Descripción del icono de eliminar</string>
+
+    <string name="terminos_privacidad">Términos de Servicio y Política de Privacidad</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+
+    <string-array name="options_array">
+        <item>Bloquear empresa</item>
+        <item>Eliminar empresa</item>
+    </string-array>
+
+
+    <string-array name="ciudades_uruguay">
+        <item>Rivera</item>
+        <item>Livramento</item>
+    </string-array>
+</resources>
